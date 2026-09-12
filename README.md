@@ -1,1 +1,0 @@
-# cognifyz_python_project
